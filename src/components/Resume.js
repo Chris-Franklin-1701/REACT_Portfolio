@@ -1,10 +1,11 @@
 import React from "react";
-import resume from '../assets/files/Modern Professional Resume.pdf'
+import resume from '../assets/files/currentResume.pdf'
+import resumeImg from '../assets/images/resumeImg.png'
 
 function Resume() {
     return (
         <div>
-            <h1><img src={resume} /></h1>
+            <h1><a href={resume} ><img src={resumeImg} alt="image of my resume"/></a></h1>
 
             <h2><strong>My learned skills:</strong></h2>
                 <ul>
@@ -12,7 +13,7 @@ function Resume() {
                     <li>CSS3</li>
                     <li>JavaScript</li>
                     <li>jQuery</li>
-                    <li>BootStrap</li>
+                    <li>BootStrap</li>-
                     <li>Bulma</li>
                     <li>Express.js</li>
                     <li>React.js</li>

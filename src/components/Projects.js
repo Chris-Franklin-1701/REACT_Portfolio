@@ -3,7 +3,7 @@ import React from "react";
 function Projects(props) {
     return (
         <div className='projects' onClick={() => {window.open(props.url)}}>
-            <image className='projectImage' src={props.image}></image>
+            <img className='projectImage' src={props.image} />
             <div>
                 <h1>{props.name}</h1>
             </div>
