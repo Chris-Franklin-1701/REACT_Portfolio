@@ -7,7 +7,7 @@ import ems from '../assets/images/EMS.png';
 import fitness from '../assets/images/fitness tracker.png';
 import note from '../assets/images/note-taker.png';
 import project2 from '../assets/images/project2.png';
-import team from '../assets/images/Team Profile Generator';
+import team from '../assets/images/Team Profile Generator.png';
 import weather from '../assets/images/weather-dashboard.png';
 import work from '../assets/images/work_day.png';
 
