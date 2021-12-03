@@ -13,10 +13,8 @@ const styles = {
 function Footer(){
     return(
         <footer style={styles.footerStyle}>
-            <ul>
-                <li><a href="https://github.com/Chris-Franklin-1701" target="blank" class="icon brands fa-github"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a></li>
-                <li><a href="https://www.linkedin.com/in/christopher-franklin-a44957a4/" target="blank" class="icon brands fa-linkedin-in"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon></a></li>
-            </ul>
+            <a href="https://github.com/Chris-Franklin-1701" target="blank" class="icon brands fa-github"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
+            <a href="https://www.linkedin.com/in/christopher-franklin-a44957a4/" target="blank" class="icon brands fa-linkedin-in"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon></a>
         </footer>
 
     )

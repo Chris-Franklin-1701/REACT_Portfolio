@@ -9,9 +9,9 @@ function ContactMe(){
         <div>
             <h1>Please Contact at any of the below:</h1>
                 <ul>
-                    <li><a href="tel:309-704-0015"><FontAwesomeIcon icon={faPhone}></FontAwesomeIcon></a></li>
-                    <li><a href="mailto:chris.franklin1701@gmail.com"><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon></a></li>
-                    <li><a href="https://www.linkedin.com/in/christopher-franklin-a44957a4/"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon></a></li>
+                    <li><a href="tel:309-704-0015"><FontAwesomeIcon icon={faPhone}></FontAwesomeIcon>Call Me</a></li>
+                    <li><a href="mailto:chris.franklin1701@gmail.com"><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon></a>E-mail Me</li>
+                    <li><a href="https://www.linkedin.com/in/christopher-franklin-a44957a4/"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon>Find me on LinkedIn</a></li>
                 </ul>
         </div>
     );
