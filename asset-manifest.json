@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/REACT_Portfolio/static/css/main.6e2f9a65.chunk.css",
-    "main.js": "/REACT_Portfolio/static/js/main.83d39f5a.chunk.js",
-    "main.js.map": "/REACT_Portfolio/static/js/main.83d39f5a.chunk.js.map",
+    "main.css": "/REACT_Portfolio/static/css/main.6bdb6e2d.chunk.css",
+    "main.js": "/REACT_Portfolio/static/js/main.cda2f249.chunk.js",
+    "main.js.map": "/REACT_Portfolio/static/js/main.cda2f249.chunk.js.map",
     "runtime-main.js": "/REACT_Portfolio/static/js/runtime-main.b84b5645.js",
     "runtime-main.js.map": "/REACT_Portfolio/static/js/runtime-main.b84b5645.js.map",
     "static/css/2.383c0125.chunk.css": "/REACT_Portfolio/static/css/2.383c0125.chunk.css",
-    "static/js/2.aaeb631a.chunk.js": "/REACT_Portfolio/static/js/2.aaeb631a.chunk.js",
-    "static/js/2.aaeb631a.chunk.js.map": "/REACT_Portfolio/static/js/2.aaeb631a.chunk.js.map",
+    "static/js/2.524271c9.chunk.js": "/REACT_Portfolio/static/js/2.524271c9.chunk.js",
+    "static/js/2.524271c9.chunk.js.map": "/REACT_Portfolio/static/js/2.524271c9.chunk.js.map",
     "index.html": "/REACT_Portfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/REACT_Portfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.6e2f9a65.chunk.css.map": "/REACT_Portfolio/static/css/main.6e2f9a65.chunk.css.map",
-    "static/js/2.aaeb631a.chunk.js.LICENSE.txt": "/REACT_Portfolio/static/js/2.aaeb631a.chunk.js.LICENSE.txt",
-    "static/media/Profile.8543fada.jpg": "/REACT_Portfolio/static/media/Profile.8543fada.jpg"
+    "static/css/main.6bdb6e2d.chunk.css.map": "/REACT_Portfolio/static/css/main.6bdb6e2d.chunk.css.map",
+    "static/js/2.524271c9.chunk.js.LICENSE.txt": "/REACT_Portfolio/static/js/2.524271c9.chunk.js.LICENSE.txt",
+    "static/media/EMS.0321dce7.png": "/REACT_Portfolio/static/media/EMS.0321dce7.png",
+    "static/media/Modern Professional Resume.da955e53.pdf": "/REACT_Portfolio/static/media/Modern Professional Resume.da955e53.pdf",
+    "static/media/Profile.8543fada.jpg": "/REACT_Portfolio/static/media/Profile.8543fada.jpg",
+    "static/media/code-quiz.a79aa446.png": "/REACT_Portfolio/static/media/code-quiz.a79aa446.png",
+    "static/media/e-commerce.9df2f8e7.png": "/REACT_Portfolio/static/media/e-commerce.9df2f8e7.png",
+    "static/media/fitness tracker.5b0aa2ff.png": "/REACT_Portfolio/static/media/fitness tracker.5b0aa2ff.png",
+    "static/media/project2.41512916.png": "/REACT_Portfolio/static/media/project2.41512916.png",
+    "static/media/weather-dashboard.6fd34790.png": "/REACT_Portfolio/static/media/weather-dashboard.6fd34790.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b84b5645.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.aaeb631a.chunk.js",
-    "static/css/main.6e2f9a65.chunk.css",
-    "static/js/main.83d39f5a.chunk.js"
+    "static/js/2.524271c9.chunk.js",
+    "static/css/main.6bdb6e2d.chunk.css",
+    "static/js/main.cda2f249.chunk.js"
   ]
 }
