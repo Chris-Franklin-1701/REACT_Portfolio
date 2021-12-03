@@ -1,6 +1,6 @@
 import React from "react";
 
-function Projects() {
+function Projects(props) {
     return (
         <div className='projects' onClick={() => {window.open(props.url)}}>
             <image className='projectImage' src={props.image}></image>
