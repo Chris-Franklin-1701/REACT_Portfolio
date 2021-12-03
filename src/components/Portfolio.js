@@ -1,6 +1,6 @@
 import React from "react";
 import Projects from './Projects';
-import passgen from '../assets/images/passgen';
+import passgen from '../assets/images/passgen.png';
 import codequiz from '../assets/images/code-quiz.png';
 import ecommerce from '../assets/images/e-commerce.png';
 import ems from '../assets/images/EMS.png';
