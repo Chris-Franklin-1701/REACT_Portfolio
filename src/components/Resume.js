@@ -1,5 +1,5 @@
 import React from "react";
-import resume from '../../assets/files/Modern Professional Resume.pdf'
+import resume from '../assets/files/Modern Professonal Resume.pdf'
 
 function Resume() {
     return (

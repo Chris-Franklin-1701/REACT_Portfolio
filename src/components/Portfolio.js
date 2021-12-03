@@ -1,15 +1,15 @@
 import React from "react";
 import Projects from './Projects';
-import passgen from '../images/passgen.png';
-import codequiz from '../images/code-quiz.png';
-import ecommerce from '../images/e-commerce.png';
-import ems from '../images/EMS.png';
-import fitness from '../images/fitness tracker.png';
-import note from '../images/note-taker.png';
-import project2 from '../images/project2.png';
-import team from '../images/Team Profile Generator';
-import weather from '../images/weather-dashboard.png';
-import work from '../images/work_day.png';
+import passgen from '../assets/images/passgen';
+import codequiz from '../assets/images/code-quiz.png';
+import ecommerce from '../assets/images/e-commerce.png';
+import ems from '../assets/images/EMS.png';
+import fitness from '../assets/images/fitness tracker.png';
+import note from '../assets/images/note-taker.png';
+import project2 from '../assets/images/project2.png';
+import team from '../assets/images/Team Profile Generator';
+import weather from '../assets/images/weather-dashboard.png';
+import work from '../assets/images/work_day.png';
 
 
 
