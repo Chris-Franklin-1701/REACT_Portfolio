@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../assets/images/Profile";
+import Profile from "../assets/images/Profile.jpg";
 
 const styles = {
     profileStyle: {
