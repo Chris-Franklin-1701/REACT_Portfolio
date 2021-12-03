@@ -1,11 +1,9 @@
-import React from 'react';
-import aboutMe from './components/aboutMe';
-import projects from './components/projects';
-import contactMe from './components/contactMe';
-import resume from './components/resume';
+
+import './styles/App.css'
+import AboutMe from './components/aboutMe';
 
 function App() {
-    return <aboutMe />;
+    return <AboutMe />;
 }
 
 export default App;
