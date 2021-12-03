@@ -1,6 +1,6 @@
 
 import './styles/App.css'
-import AboutMe from './components/aboutMe';
+import AboutMe from './components/AboutMe';
 
 function App() {
     return <AboutMe />;
