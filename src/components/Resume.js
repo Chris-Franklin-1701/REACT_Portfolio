@@ -4,7 +4,7 @@ import resume from '../assets/files/Modern Professional Resume.pdf'
 function Resume() {
     return (
         <div>
-            <h1><a href= {resume} ><img src={resume} /></a></h1>
+            <h1><img src={resume} /></h1>
 
             <h2><strong>My learned skills:</strong></h2>
                 <ul>
